@@ -1,1 +1,1 @@
-A test repository for learning git.
+This is the README file.
